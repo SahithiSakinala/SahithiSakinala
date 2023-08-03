@@ -1,5 +1,7 @@
 Hi I'm Sahithi Sakinala👋
 
+🎓 Pursuing my Master's in Computer Science Graduate from Rutgers University-New Brunswick,New Jersey.
+
 I'm a passionate software engineer with a strong knack for building robust applications that solve real-world problems. 
 My journey in the tech world has been nothing short of thrilling, and I'm always on the lookout for exciting opportunities to collaborate and learn from others.
 
