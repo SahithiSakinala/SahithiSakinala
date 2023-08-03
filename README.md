@@ -1,4 +1,5 @@
 Hi I'm Sahithi Sakinala👋
+
 I am actively seeking full-time opportunities to leverage my expertise and make meaningful contributions to cutting-edge projects.
 <!--
 **SahithiSakinala/SahithiSakinala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
